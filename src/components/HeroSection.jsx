@@ -15,7 +15,7 @@ export const HeroSection = () =>{
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">Final-year Computer Science and Engineering undergraduate specializing in MERN stack development, CSS and it's Frameworks,
-          HTML, and core Java. Proven organizational skills enhance engagement within tech communities. Strong collaborator
+          HTML, and core Java. Proven organizational skills. Strong collaborator
           focused on delivering impactful results through innovative solutions. 
           </p>
         
