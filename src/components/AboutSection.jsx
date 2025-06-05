@@ -1,9 +1,4 @@
-
-
-
 import {User, Briefcase, Code } from "lucide-react"; 
-
-
 
 
 export const AboutSection = () => {
