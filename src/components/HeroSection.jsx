@@ -11,7 +11,7 @@ export const HeroSection = () =>{
             <span className="text-primary opacity-0 animate-fade-in-delay-2"> 
                 {" "} 
                 Krutika</span>
-            <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2"> Nikhade</span>
+            <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Nikhade</span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">Final-year Computer Science and Engineering undergraduate specializing in MERN stack development, CSS and it's Frameworks,
