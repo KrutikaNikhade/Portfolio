@@ -5,11 +5,11 @@ import { Menu, X } from "lucide-react";
 
 
 const navItems = [
-    {name: "Home", href:"#home" },
-    {name: "About", href:"#about" },
-    {name: "Skills", href:"#skills" },
-    {name: "Projects", href:"#projects" },
-    {name: "Contact", href:"#contact" },
+    {name: "Home", href:"#Home" },
+    {name: "About", href:"#About" },
+    {name: "Skills", href:"#Skills" },
+    {name: "Projects", href:"#Projects" },
+    {name: "Contact", href:"#Contact" },
 ];
 
 
@@ -51,7 +51,7 @@ export const Navbar = () => {
     {/*Desktop nav */}
      <div className="hidden md:flex space-x-8">
         {navItems.map((item, key)=>(
-            <a key={key} href="{item.href}" className="text-foreground/80 hover:text-primary transition-colors duration-300">
+            <a key={key} href={item.href} className="text-foreground/80 hover:text-primary transition-colors duration-300">
                 {item.name}
             </a>
         ))}

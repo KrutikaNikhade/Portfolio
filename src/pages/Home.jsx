@@ -20,10 +20,11 @@ export const Home = () => {
 
         {/* Main content*/}
   <main>
-    <HeroSection />
+    <HeroSection  />
     <AboutSection />
     <SkillsSection />
     <ProjectsSection />
+    <ContactSection/>
   </main>
 
         {/* Footer */}
