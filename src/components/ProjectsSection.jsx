@@ -38,7 +38,7 @@ export const ProjectsSection = ()=>{
             <div key={key} className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover">
 
                 <div className="h-48 overflow-hidden">
-                    <img src={project.image} alt={project.title} className="w-full h-full object-cover transition-transform duration-500 grounp-hover:scale-110"/>
+                    <img src={project.image} alt={project.title} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"/>
                 </div>
                 <div className="p-6">
                   <div className="flex flex-wrap gap-2 mb-4">
@@ -71,12 +71,13 @@ export const ProjectsSection = ()=>{
             </div>
         ))}
       </div>
-         <div className="text-center mt-12"></div>
+         <div className="text-center mt-12">
          <a href="https://github.com/KrutikaNikhade" className="cosmic-button w-fit flex items-center mx-auto gap-2"
          target="_blank">
           Check My Github <ArrowRight size={16}/>
          </a>
-      </div>
+       </div>
+       </div>
     </section>
     );
 };
