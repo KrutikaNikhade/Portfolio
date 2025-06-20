@@ -1,14 +1,49 @@
-# Portfolio
-This is my portfolio
-# React + Vite
+# 💼 Krutika Nikhade — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio — a showcase of my projects, skills, and experiences as a full-stack developer. Built using modern technologies and designed with responsiveness and interactivity in mind.
 
-Currently, two official plugins are available:
+## 🚀 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [View Portfolio](https://portfoliokn-meyrgk0ef-krutika-nikhades-projects.vercel.app/)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### 🔹 Frontend
+- React.js
+- HTML5, CSS3
+- Tailwind CSS
+
+### 🔹 Tools
+- Git & GitHub
+- Vercel 
+- VS Code
+
+
+---
+
+## 📸 Features
+
+- 🔥 Dynamic, interactive React UI
+- 🌙 Light/Dark mode toggle
+- 📱 Fully responsive design
+- 💻 Projects with live demo & GitHub links
+- 📄 Resume download button
+- 📫 Contact section with mail integration
+- 🛰️ Deployed with Vercel
+
+---
+
+## 🗂️ Projects Featured
+
+- **Wanderlust** — Hotel Booking App
+- More coming soon...
+
+---
+
+## 📞 Contact
+If you'd like to connect or collaborate:
+
+- 📧 Email: [krutikanikhade0204@gmail.com](mailto:krutikanikhade0204@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/krutika-nikhade](https://linkedin.com/in/krutika-nikhade)
+- 🐙 GitHub: [@KrutikaNikhade](https://github.com/KrutikaNikhade)
