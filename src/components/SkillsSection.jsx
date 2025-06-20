@@ -2,7 +2,8 @@ import { useState } from "react";
 import {cn} from "@/lib/utils";
 
 const skills = [
-    {name: "HTMl/CSS", category:"Frontend"},
+    {name: "HTML", category:"Frontend"},
+    {name: "CSS", category:"Frontend"},
     {name: "Javascript", category:"Frontend"},
     {name: "React", category:"Frontend"},
 
@@ -14,7 +15,7 @@ const skills = [
 
     //Tools
     {name: "Git/Github", category:"Tools"},
-    {name: "Docker", category:"Tools"},
+    //{name: "Docker", category:"Tools"},
 ];
 
 const categories = ["all", "Frontend", "Backend", "Tools"];

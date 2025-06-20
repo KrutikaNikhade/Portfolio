@@ -14,9 +14,11 @@ export const HeroSection = () =>{
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Nikhade</span>
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">Final-year Computer Science and Engineering undergraduate specializing in MERN stack development, CSS and it's Frameworks,
-          HTML, and core Java. Proven organizational skills. Strong collaborator
-          focused on delivering impactful results through innovative solutions. 
+          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
+         A MERN Stack Developer crafting intuitive web experiences
+
+I build clean, scalable, and user-focused web applications using modern technologies like MongoDB, Express, React, Node.js, CSS and its frameworks and HTML5.<br></br>
+🔧 Code. ☕ Create. 🚀 Repeat.
           </p>
         
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
