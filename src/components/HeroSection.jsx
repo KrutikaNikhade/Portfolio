@@ -22,7 +22,7 @@ I build clean, scalable, and user-focused web applications using modern technolo
           </p>
         
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
-            <a href="#projects" className="cosmic-button">
+            <a href="#Projects" className="cosmic-button">
           View My Work
             </a>
           </div>
